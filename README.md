@@ -2,8 +2,6 @@
 
 My name is Nikola. I'm a burgeoning software developer originally from Zagreb, Croatia.
 
-I like
-
 Right now I'm finishing my studies in 42 Wolfsburg and looking for opportunities to grow through internships or entry-level positions in the software development field.
 
 I’m also currently improving my C++ skills.
